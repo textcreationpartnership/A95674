@@ -1,0 +1,552 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A table of the insurance office at the back-side of the Royal-Exchange, shewing the premium, or rate of insurance for brick-houses (the same to be reckoned double for timber) from one pound per annum rent to an hundred  ...</title>
+            <author>Fire Office (London, England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95674</idno>
+            <idno type="STC">Wing T81</idno>
+            <idno type="STC">ESTC R205912</idno>
+            <idno type="EEBO-CITATION">99895819</idno>
+            <idno type="PROQUEST">99895819</idno>
+            <idno type="VID">153642</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95674)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153642)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2373:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A table of the insurance office at the back-side of the Royal-Exchange, shewing the premium, or rate of insurance for brick-houses (the same to be reckoned double for timber) from one pound per annum rent to an hundred  ...</title>
+                  <author>Fire Office (London, England)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : table  </extent>
+               <publicationStmt>
+                  <publisher>printed by Tho. Milbourn, in Jewen-Street, for the gentlemen of the insurance office on the back-side of the Royal-Exchange, where these papers are to be had gratis,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Insurance, Fire --  England --  Early works to 1800.</term>
+               <term>Insurance --  Rates --  Early works to 1800.</term>
+               <term>Insurance premiums --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="table_of_insurance_rates">
+            <pb facs="tcp:153642:1" rendition="simple:additions"/>
+            <pb facs="tcp:153642:1" rendition="simple:additions"/>
+            <pb facs="tcp:153642:2" rendition="simple:additions"/>
+            <pb facs="tcp:153642:2"/>
+            <pb facs="tcp:153642:3"/>
+            <pb facs="tcp:153642:3"/>
+            <head>A Table of the <hi>Inſurance Office</hi> at the Back-ſide of the <hi>Royal Exchange,</hi> Shewing<lb/>
+               <hi>The Premium, or Rate of Inſurance for Brick-Houſes (the ſame to be reckoned Double for Timber) from One Pound <hi>per Annum</hi> Rent to an Hundred, for the Term of Thirty-One Years, or Under, which is Six Pence in the Pound-Rent for one Year, and to Diſcount by way of Purchaſe; that is, Five Years Paid down for Seven Years Inſurance; Seven, for Eleven; Ten, for Twenty-One; Eleven, for Thirty-One. For every Pound-Rent Inſured, Ten Pounds in Money (which is One Hundred Pounds for Ten Pounds per Annum) is to be paid as often as the Houſe is Burnt down, or Demoliſhed, within the Term Inſured. If Damaged, then to be Repaired.</hi>
+            </head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Pound Rent</cell>
+                     <cell role="label" cols="3">Inſured for 7. Years.</cell>
+                     <cell role="label" cols="3">Inſured for 11. Years.</cell>
+                     <cell role="label" cols="3">Inſured for 21. Years.</cell>
+                     <cell role="label" cols="3">Inſured for 31. Years.</cell>
+                     <cell role="label" cols="3">Houſes Burnt, Money Paid.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Lib.</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">ſh.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">ſh.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">ſh.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">ſh.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">ſh.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell>3</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>7</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>11</cell>
+                     <cell> </cell>
+                     <cell>20</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell> </cell>
+                     <cell>7</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell>15</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>16</cell>
+                     <cell>6</cell>
+                     <cell>30</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>14</cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell>40</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell>12</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell>17</cell>
+                     <cell>6</cell>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>7</cell>
+                     <cell>6</cell>
+                     <cell>50</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell>15</cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>13</cell>
+                     <cell> </cell>
+                     <cell>60</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell> </cell>
+                     <cell>17</cell>
+                     <cell>6</cell>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                     <cell>6</cell>
+                     <cell>1</cell>
+                     <cell>15</cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>18</cell>
+                     <cell>6</cell>
+                     <cell>70</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>1</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                     <cell>80</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                     <cell>1</cell>
+                     <cell>11</cell>
+                     <cell>6</cell>
+                     <cell>2</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell>9</cell>
+                     <cell>6</cell>
+                     <cell>90</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>15</cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell>15</cell>
+                     <cell> </cell>
+                     <cell>100</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>3</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>5</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>200</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>30</cell>
+                     <cell>3</cell>
+                     <cell>15</cell>
+                     <cell> </cell>
+                     <cell>5</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell>7</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>8</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell>300</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>40</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>7</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>11</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>400</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>50</cell>
+                     <cell>6</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell>8</cell>
+                     <cell>15</cell>
+                     <cell> </cell>
+                     <cell>12</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>13</cell>
+                     <cell>15</cell>
+                     <cell> </cell>
+                     <cell>500</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>60</cell>
+                     <cell>7</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>15</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>16</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>600</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>60</cell>
+                     <cell>7</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>15</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>16</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>600</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>70</cell>
+                     <cell>8</cell>
+                     <cell>15</cell>
+                     <cell> </cell>
+                     <cell>12</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell>17</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>19</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell>700</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>80</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>14</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>20</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>22</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>800</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>90</cell>
+                     <cell>11</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell>15</cell>
+                     <cell>15</cell>
+                     <cell> </cell>
+                     <cell>22</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>24</cell>
+                     <cell>15</cell>
+                     <cell> </cell>
+                     <cell>900</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>100</cell>
+                     <cell>12</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>17</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>25</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>27</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>1000</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>THeſe are the Rates that were Agreed to at the Firſt Setling of this Office, by thoſe Gen<g ref="char:EOLhyphen"/>tlemen that were Subſcribers and Encouragers to this Undertaking, who took the Trouble to ſee the Security Setled according to the Propoſitions then made.</p>
+            <p>
+               <hi>The Propoſitions Were:</hi>
+               <lb/>
+THat <hi>Two Thouſand Pounds per Annum</hi> in Ground-Rents ſhould be Setled on Truſtees, as a Secu<g ref="char:EOLhyphen"/>rity to make good the Loſſes of <hi>Five Thouſand Houſes:</hi> And after that Number were Inſured, <hi>Ten Thouſand Pounds</hi> ſhould be laid out in Ground-Rents, to be Added, and Setled as the Former, for the Inſuring of <hi>Five Thouſand</hi> Houſes more, &amp;c.</p>
+            <p>
+               <hi>The Ground-Rents which were Setled to begin this Deſigne, Were,</hi>
+               <lb/>
+THe Ground-Rents of <hi>Eſſex</hi> Buildings in the <hi>Strand,</hi> being <hi>One Thouſand and Fifty Pounds per Annum:</hi> And the Ground-Rents of the New Buildings on the Eaſt-ſide of St. <hi>Martins</hi> Lane in the <hi>Strand,</hi> being about <hi>Three Hundred and Fifty Pounds per Annum:</hi> Together <hi>One Thou<g ref="char:EOLhyphen"/>ſand Four Hundred Pounds per Annum</hi> for Security to make good the Loſſes of <hi>Three Thouſand</hi> Houſes.</p>
+            <p>
+               <hi>The Truſtees Names which Accepted the Truſt, Are,</hi>
+               <lb/>
+SIr <hi>Michael Heneage,</hi> Sir <hi>William Warren,</hi> Sir <hi>Richard How,</hi> Knights; <hi>Peter Rich, William Thompſon, George Bradbury, Edward Maynard,</hi> Eſquires; Mr. <hi>Ralph Hartley,</hi> and Mr. <hi>Nathaniel Hawes.</hi>
+            </p>
+            <p>
+               <hi>The Councel which Approved of the Title and Settlement, Were,</hi>
+               <lb/>
+SIr <hi>Francis Pemberton,</hi> now Lord Chief Juſtice; Sir <hi>William Jones</hi> (ſince Deceaſed); Sir <hi>Francis nnington,</hi> Mr. <hi>Williams,</hi> late Speaker to the Houſe of Commons; Mr. <hi>John Moſyer,</hi> Mr. <hi>Polyxſen, unders,</hi> and Mr. <hi>Charles Whitaker.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>, Printed by <hi>Tho. Milbourn,</hi> in <hi>Jewen-Street,</hi> for the Gentlemen of the <hi>Inſurance Office</hi> on the Back-ſide of the <hi>Royal-Exchange,</hi> where theſe Papers are to be had <hi>Gratis,</hi> 1682.</p>
+            <pb facs="tcp:153642:4"/>
+            <pb facs="tcp:153642:4"/>
+            <pb facs="tcp:153642:5"/>
+            <pb facs="tcp:153642:5"/>
+            <pb facs="tcp:153642:6"/>
+            <pb facs="tcp:153642:6"/>
+            <pb facs="tcp:153642:7"/>
+            <pb facs="tcp:153642:7"/>
+            <pb facs="tcp:153642:8"/>
+            <pb facs="tcp:153642:8"/>
+            <pb facs="tcp:153642:9"/>
+            <pb facs="tcp:153642:9" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
